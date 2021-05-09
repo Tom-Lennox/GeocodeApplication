@@ -16,7 +16,7 @@
     "geolib": "2.0.22",
     "import-glob-loader": "^1.1.0",
     "loader": "^2.1.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "node-sass": "^4.12.0",
     "prop-types": "15.5.10",
     "query-string": "5.0.0",
